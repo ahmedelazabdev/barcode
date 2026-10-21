@@ -1,0 +1,19 @@
+# Barcode Generator & Scanner
+> High-Resolution 1D Barcode Generator and In-Browser Camera Scanner
+
+## Project Overview
+Barcode Studio is a free, high-speed, 100% client-side web utility engineered to generate standards-compliant linear 1D barcodes (Code 128 and Code 39) with vector SVG/PNG export, and scan physical barcodes directly using webcam feeds or uploaded images with audio feedback.
+
+## Canonical URL
+https://ahmedelazabdev.github.io/barcode/
+
+## Core Features
+- Native Code 128 (subset B) and Code 39 mathematical symbology generation.
+- Real-time HTML5 Canvas and Vector SVG rendering with customizable bar height, scale, and text labels.
+- Export options: Crisp PNG download, scalable SVG vectors, and direct print label mode.
+- In-browser Barcode Scanner: Reads codes via device camera or drag-and-drop images using the Barcode Detection API.
+- Integrated Web Audio API scan confirmation beep (1750 Hz synthesized pulse).
+- 100% Client-Side Privacy: Zero barcode payload or camera data is transmitted across the internet.
+
+## Target Audience
+Warehouse managers, retail inventory specialists, e-commerce merchants, logistics dispatchers, and developers needing instant barcode creation and verification.
